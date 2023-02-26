@@ -3,7 +3,7 @@ import styled from "styled-components";
 const RegisterFormStyled = styled.form`
   display: flex;
   flex-direction: column;
-  background-color: greenyellow;
+  background-color: #ffffffe6;
   min-height: 500px;
   width: 300px;
   padding: 20px;
